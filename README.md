@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React,node js,Kotlin**
 
-- 💬 Ask me about **java,Html,css,javascript**
+- 💬 Ask me about **java,Html,css,javascript,Python**
 
 - 📫 How to reach me **gayasripethum1@gmail.com**
 
