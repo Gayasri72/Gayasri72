@@ -1,4 +1,4 @@
-![MasterHead](logo.jpg)
+![MasterHead](logo.jpg)(https://laptoppricepredictordemov2-a406e4e22083.herokuapp.com/)
 
 <h1 align="center">Hi 👋, I'm Gayasri Pethum</h1>
 <h3 align="center">A passionate fullstack developer from Serendib</h3>
