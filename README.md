@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **MERN web application and Kotlin mobile app**
 
-- 🌱 I’m currently learning **React,node js,Kotlin**
+- 🌱 I’m currently learning **React,node js,Kotlin,Machine Learning**
 
-- 💬 Ask me about **java,Html,css,javascript,Python**
+- 💬 Ask me about **java,MERN stack,Python**
 
 - 📫 How to reach me **gayasripethum1@gmail.com**
 
